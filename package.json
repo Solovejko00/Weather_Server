@@ -15,5 +15,8 @@
     "express": "^4.17.1",
     "mongoose": "^5.11.15",
     "node-fetch": "^2.6.1"
+  },
+  "devDependencies": {
+    "mysql2": "^2.3.3"
   }
 }
