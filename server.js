@@ -1,7 +1,7 @@
 const express = require('express');
 const bodyParser = require('body-parser');
 const fetch = require('node-fetch');
-const mysql = require("mysql2");
+const mysql = require("mysql");
 
 let myKey = '0b5edc7455a336d544760ce639198bc9';
 
