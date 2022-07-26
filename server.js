@@ -10,10 +10,10 @@ app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({extended: true}));
 
 const connection = mysql.createConnection({
-    host: "sql4.freesqldatabase.com",
-    user: "sql4501675",
-    database: "sql4501675",
-    password: "im31Vurfz9"
+    host: "sql8.freesqldatabase.com",
+    user: "sql8508900",
+    database: "sql8508900",
+    password: "WxKNnzCbIT"
 });
 
 connection.connect(function(err){
